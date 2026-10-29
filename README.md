@@ -11,7 +11,7 @@ Python 3.6 ou superior. Não precisa instalar nenhuma biblioteca.
 ## Como rodar
 
 ```
-python adivinhe_o_numero.py
+python jogo_do_numero_secreto.py
 ```
 
 ## Níveis
